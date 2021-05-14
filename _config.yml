@@ -30,6 +30,9 @@ max_height: 400
 # Handle
 instagram: thulexhibition
 
+# Style
+style: dark #light
+
 ######################
 # END OF CONFIG CODE #
 #  Ignore below :)   #
