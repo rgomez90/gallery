@@ -7,7 +7,7 @@ PHOTO_PATH = os.path.dirname(__file__) + '/../photos/'
 
 
 def is_image_path(path):
-    return re.search(r'\.(jpe?g|png)$', path)
+    return re.search(r'\.(jpe?g|png|JPE?G)$', path)
 
 
 def get_min_path(path):

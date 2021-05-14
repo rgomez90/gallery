@@ -33,7 +33,7 @@ def get_directories():
 
 
 def is_image_path(path):
-    return re.search(r'\.(jpe?g|png)$', path)
+    return re.search(r'\.(jpe?g|png|JPE?G|PNG)$', path)
 
 
 def get_placeholder_path(path):

@@ -1,5 +1,150 @@
 {
-  "Bobby": [],
+  "Bobby": [
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/123.jpg",
+      "compressed_path": "./photos/Bobby/123.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bobby/123.placeholder.jpg"
+    },
+    {
+      "width": 1356,
+      "height": 2048,
+      "path": "./photos/Bobby/dqwer.JPG",
+      "compressed_path": "./photos/Bobby/dqwer.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/dqwer.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/qdas.JPG",
+      "compressed_path": "./photos/Bobby/qdas.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/qdas.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/qwe.JPG",
+      "compressed_path": "./photos/Bobby/qwe.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/qwe.JPG"
+    },
+    {
+      "width": 1356,
+      "height": 2048,
+      "path": "./photos/Bobby/qweqwe.JPG",
+      "compressed_path": "./photos/Bobby/qweqwe.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/qweqwe.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100504.JPG",
+      "compressed_path": "./photos/Bobby/R100504.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100504.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100547.JPG",
+      "compressed_path": "./photos/Bobby/R100547.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100547.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100551.JPG",
+      "compressed_path": "./photos/Bobby/R100551.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100551.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100556.JPG",
+      "compressed_path": "./photos/Bobby/R100556.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100556.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100562.JPG",
+      "compressed_path": "./photos/Bobby/R100562.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100562.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100565.JPG",
+      "compressed_path": "./photos/Bobby/R100565.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100565.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100569.JPG",
+      "compressed_path": "./photos/Bobby/R100569.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100569.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100572.JPG",
+      "compressed_path": "./photos/Bobby/R100572.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100572.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100574.JPG",
+      "compressed_path": "./photos/Bobby/R100574.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100574.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/R100575.JPG",
+      "compressed_path": "./photos/Bobby/R100575.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100575.JPG"
+    },
+    {
+      "width": 1356,
+      "height": 2048,
+      "path": "./photos/Bobby/R100578.JPG",
+      "compressed_path": "./photos/Bobby/R100578.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/R100578.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/w.JPG",
+      "compressed_path": "./photos/Bobby/w.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/w.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Bobby/wdwqew.JPG",
+      "compressed_path": "./photos/Bobby/wdwqew.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Bobby/wdwqew.JPG"
+    }
+  ],
   "Dominicana": [
     {
       "width": 2292,
@@ -180,7 +325,224 @@
       "placeholder_path": "./photos/Portraits/AExport-98.placeholder.png"
     }
   ],
-  "Street Photography": [],
+  "Street Photography": [
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100736.JPG",
+      "compressed_path": "./photos/Street Photography/_R100736.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100736.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100743.JPG",
+      "compressed_path": "./photos/Street Photography/_R100743.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100743.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100744.JPG",
+      "compressed_path": "./photos/Street Photography/_R100744.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100744.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100748.JPG",
+      "compressed_path": "./photos/Street Photography/_R100748.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100748.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100752.JPG",
+      "compressed_path": "./photos/Street Photography/_R100752.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100752.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100756.JPG",
+      "compressed_path": "./photos/Street Photography/_R100756.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100756.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100761.JPG",
+      "compressed_path": "./photos/Street Photography/_R100761.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100761.JPG"
+    },
+    {
+      "width": 1356,
+      "height": 2048,
+      "path": "./photos/Street Photography/_R100769.JPG",
+      "compressed_path": "./photos/Street Photography/_R100769.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100769.JPG"
+    },
+    {
+      "width": 1356,
+      "height": 2048,
+      "path": "./photos/Street Photography/_R100772.JPG",
+      "compressed_path": "./photos/Street Photography/_R100772.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100772.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100774.JPG",
+      "compressed_path": "./photos/Street Photography/_R100774.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100774.JPG"
+    },
+    {
+      "width": 1356,
+      "height": 2048,
+      "path": "./photos/Street Photography/_R100776.JPG",
+      "compressed_path": "./photos/Street Photography/_R100776.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100776.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100779.JPG",
+      "compressed_path": "./photos/Street Photography/_R100779.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100779.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100784.JPG",
+      "compressed_path": "./photos/Street Photography/_R100784.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100784.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100788.JPG",
+      "compressed_path": "./photos/Street Photography/_R100788.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100788.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100792.JPG",
+      "compressed_path": "./photos/Street Photography/_R100792.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100792.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100795.JPG",
+      "compressed_path": "./photos/Street Photography/_R100795.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100795.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100802.JPG",
+      "compressed_path": "./photos/Street Photography/_R100802.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100802.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100806.JPG",
+      "compressed_path": "./photos/Street Photography/_R100806.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100806.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100809.JPG",
+      "compressed_path": "./photos/Street Photography/_R100809.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100809.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100811.JPG",
+      "compressed_path": "./photos/Street Photography/_R100811.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100811.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100814.JPG",
+      "compressed_path": "./photos/Street Photography/_R100814.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100814.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100818.JPG",
+      "compressed_path": "./photos/Street Photography/_R100818.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100818.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100819.JPG",
+      "compressed_path": "./photos/Street Photography/_R100819.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100819.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100821.JPG",
+      "compressed_path": "./photos/Street Photography/_R100821.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100821.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100823.JPG",
+      "compressed_path": "./photos/Street Photography/_R100823.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100823.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100826.JPG",
+      "compressed_path": "./photos/Street Photography/_R100826.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100826.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1356,
+      "path": "./photos/Street Photography/_R100827.JPG",
+      "compressed_path": "./photos/Street Photography/_R100827.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography/_R100827.JPG"
+    }
+  ],
   "Travel Photography": [
     {
       "width": 3112,
