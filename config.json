@@ -1,4 +1,5 @@
 {
+  "Bobby": [],
   "Dominicana": [
     {
       "width": 2292,
@@ -63,48 +64,6 @@
       "compressed_path": "./photos/Dominicana/P1047619.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Dominicana/P1047619.placeholder.jpg"
-    }
-  ],
-  "Mockups": [
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/curriculum.png",
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 2020,
-      "path": "./photos/Mockups/Desktop.png",
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png"
-    },
-    {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Mockups/Frame.png",
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/glossary.png",
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/photoframe.png",
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png"
     }
   ],
   "Portraits": [
